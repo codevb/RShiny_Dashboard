@@ -1,0 +1,13 @@
+name: Keyo
+title: Keyo
+username:
+account: keyo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 239769
+bundleId: 1120016
+url: https://keyo.shinyapps.io/Keyo/
+when: 1512608704.56484
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Progress Report.docx|Progress_Report.pdf
